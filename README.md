@@ -1,6 +1,7 @@
 
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/it2121/]
+[![LinkedIn][linkedin-shield]][<a href="https://www.linkedin.com/in/it2121/">Go to Google</a>]
+
 
 
 
