@@ -28,3 +28,8 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/it2121/
 
+## Copyright and License
+
+Copyright 2020 Mohammed Talib.
+
+Licensed under the [MIT License](https://github.com/it2121/Cheetah-Download-Manager/edit/master/LICENSE.txt)
